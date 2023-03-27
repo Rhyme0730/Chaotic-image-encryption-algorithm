@@ -1,17 +1,3 @@
-%%================================================================================
-%This functionto do image encryption using the reference in
-%         [1]. Hua, Zhongyun, et al. "2D Sine Logistic modulation map for image encryption." 
-%              Information Sciences 297 (2015): 80-94.
-%All copyrights are reserved by Zhongyun Hua. E-mial:huazyum@gmail.com
-%All following source code is free to distribute, to use, and to modify
-%    for research and study purposes, but absolutely NOT for commercial uses.
-%If you use any of the following code in your academic publication(s), 
-%    please cite the corresponding paper. 
-%If you have any questions, please email me and I will try to response you ASAP.
-%It worthwhile to note that all following source code is written under MATLAB R2010a
-%    and that files may call built-in functions from specific toolbox(es).
-%%================================================================================
-%%
 function varargout = ImageCipher(P,para,K)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This is the main function to implement image cipher
