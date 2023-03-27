@@ -3,8 +3,9 @@
 In this paper, we introduce a new Sine-Henon map (ICSM), which is a cascade of Sine map and Henon map. Combining the two-dimensional ICSM and CMT, a novel image encryption algorithm is also further elaborated.
 
 ## ICSM map
-
+<center>
 ![](Pictures/ICSM.png)
+<\center>
 
 ## Encryption Performance
 
