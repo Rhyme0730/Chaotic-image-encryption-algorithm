@@ -1,0 +1,7 @@
+Code Description
+
+Demo.m: Use CMT-ICSM to do image encryption and get results.
+
+ImageCipher.m: CMT-ICSM algorithm functions.
+
+imageEncryption.m: CMT-ICSM GUI demo.
