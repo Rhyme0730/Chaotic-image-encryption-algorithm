@@ -5,7 +5,7 @@ In this paper, we introduce a new Sine-Henon map (ICSM), which is a cascade of S
 ## ICSM map
 <center>
 ![](Pictures/ICSM.png)
-<\center>
+</center>
 
 ## Encryption Performance
 
