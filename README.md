@@ -24,7 +24,7 @@ In this paper, we introduce a new Sine-Henon map (ICSM), which is a cascade of S
 
 ### Anti-cutting attack analysis
 
-![image-20230327182314202](C:\Users\Rhyme\Desktop\Chaotic-image-encryption-algorithm\Pictures\Anti-cutting)
+![image-20230327182314202](Chaotic-image-encryption-algorithm\Pictures\Anti-cutting)
 
 ### Anti-noise attack analysis
 
