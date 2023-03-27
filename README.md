@@ -4,13 +4,13 @@ In this paper, we introduce a new Sine-Henon map (ICSM), which is a cascade of S
 
 ## ICSM map
 
-![](C:\Users\Rhyme\Desktop\Chaotic-image-encryption-algorithm\Pictures\Histogram.png)
+![](Pictures/ICSM.png)
 
 ## Encryption Performance
 
 ### Histogram
 
-![image-20230327182146060](C:\Users\Rhyme\Desktop\Chaotic-image-encryption-algorithm\Pictures\Histogram)
+![image-20230327182146060](Pictures/Histogram.png)
 
 ### NPCR and UACI test
 
@@ -28,8 +28,8 @@ In this paper, we introduce a new Sine-Henon map (ICSM), which is a cascade of S
 
 ### Anti-noise attack analysis
 
-![image-20230327182441150](C:\Users\Rhyme\Desktop\Chaotic-image-encryption-algorithm\Pictures\Noise)
+![image-20230327182441150](Pictures/Noise.png)
 
 ### GUI Demo
 
-![image-20230327182904143](C:\Users\Rhyme\Desktop\Chaotic-image-encryption-algorithm\Pictures\GUI)
+![image-20230327182904143](Pictures/GUI.png)
