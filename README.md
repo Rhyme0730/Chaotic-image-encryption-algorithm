@@ -36,3 +36,7 @@ In this paper, we introduce a new Sine-Henon map (ICSM), which is a cascade of S
 ### GUI Demo
 
 ![image-20230327182904143](Pictures/GUI.png)
+
+<video id="video" controls="" preload="none" poster="">
+      <source id="wmv" src="Thesis & demo video/GUI-Demo.wmv" type="video/wmv">
+</videos>
